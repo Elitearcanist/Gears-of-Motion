@@ -1,0 +1,910 @@
+{
+    "dog_skins" : [
+        {
+            "skin_name" : "Okami Amaterasu #1",
+            "skin_id" : "ammy_divine_mouthopen",
+            "use_model" : "okami_amaterasu",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Shiranui)",
+            "skin_id" : "ammy_divine_shiranui",
+            "use_model" : "ammy_divine_shiranui",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Hayabusa (Kai Ken) - Chu",
+            "skin_id" : "kusa_hayabusa",
+            "use_model" : "kusa_hayabusa",
+            "based_on" : "Hayabusa from the Canine Warriors from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, kusa, canine warriors"
+        },
+        {
+            "skin_name" : "Chi",
+            "skin_id" : "kusa_chi",
+            "use_model" : "kusa_chi",
+            "based_on" : "Chi from the Kusa 5 from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, kusa, canine warriors"
+        },
+        {
+            "skin_name" : "Ko",
+            "skin_id" : "kusa_ko",
+            "use_model" : "kusa_ko",
+            "based_on" : "Ko from the Kusa 5 from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, kusa, canine warriors"
+        },
+        {
+            "skin_name" : "Rei",
+            "skin_id" : "kusa_rei",
+            "use_model" : "kusa_rei",
+            "based_on" : "Rei from the Kusa 5 from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, kusa, canine warriors"
+        },
+        {
+            "skin_name" : "Shin",
+            "skin_id" : "kusa_shin",
+            "use_model" : "kusa_shin",
+            "based_on" : "Shin from the Kusa 5 from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, kusa, canine warriors"
+        },
+        {
+            "skin_name" : "Take - Gi",
+            "skin_id" : "kusa_take",
+            "use_model" : "kusa_take",
+            "based_on" : "Take from the Canine Warriors from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, kusa, canine warriors"
+        },
+        {
+            "skin_name" : "Tei (Tosa Inu)",
+            "skin_id" : "kusa_tei",
+            "use_model" : "kusa_tei",
+            "based_on" : "Tei from the Kusa 5 from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, kusa, canine warriors"
+        },
+        {
+            "skin_name" : "Ume - Jin",
+            "skin_id" : "kusa_ume",
+            "use_model" : "kusa_ume",
+            "based_on" : "Ume from the Canine Warriors from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, kusa, canine warriors, shiba"
+        },
+        {
+            "skin_name" : "Kaipoku - Kai",
+            "skin_id" : "oina_kaipoku",
+            "use_model" : "oina_kaipoku",
+            "based_on" : "Kaipoku from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Kawauso - Otter Mask",
+            "skin_id" : "oina_kawauso",
+            "use_model" : "oina_kawauso",
+            "based_on" : "Kawauso from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Kemushiri - Kemu",
+            "skin_id" : "oina_kemushiri",
+            "use_model" : "oina_kemushiri",
+            "based_on" : "Kemushiri from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Oina Merchant I",
+            "skin_id" : "oina_merchant",
+            "use_model" : "oina_merchant",
+            "based_on" : "Merchant from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Oina Merchant II",
+            "skin_id" : "oina_merchant2",
+            "use_model" : "oina_merchant2",
+            "based_on" : "Merchant from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Okikurumi - Oki",
+            "skin_id" : "oina_okikurumi",
+            "use_model" : "oina_okikurumi",
+            "based_on" : "Okikurumi from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Piriko - Lika",
+            "skin_id" : "oina_piriko",
+            "use_model" : "oina_piriko",
+            "based_on" : "Piriko from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Risu - Squirrel Mask",
+            "skin_id" : "oina_risu",
+            "use_model" : "oina_risu",
+            "based_on" : "Risu from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Shamikuru - Shamikle",
+            "skin_id" : "oina_shamikuru",
+            "use_model" : "oina_shamikuru",
+            "based_on" : "Shamikuru from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Todo - Sea Lion Mask",
+            "skin_id" : "oina_todo",
+            "use_model" : "oina_todo",
+            "based_on" : "Todo from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Tusukuru - Tuskle",
+            "skin_id" : "oina_tusukuru",
+            "use_model" : "oina_tusukuru",
+            "based_on" : "Tusukuru from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },
+        {
+            "skin_name" : "Wari",
+            "skin_id" : "oina_wari",
+            "use_model" : "oina_wari",
+            "based_on" : "Wari from the Oina Tribe from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, oina"
+        },        
+        {
+            "skin_name" : "Windie (Arcanine)",
+            "skin_id" : "arcanine_shiro",
+            "use_model" : "arcanine",
+            "based_on" : "Arcanine from Pokemon Gen 1",
+            "author" : "MashXP, DashieDev, SilverstarShiro",
+            "tags" : "pokemon, anime, classical"
+        },
+        {
+            "skin_name" : "Ranga",
+            "skin_id" : "ranga",
+            "use_model" : "ranga",
+            "based_on" : "Ranga from Tensei Shitara Slime Datta Ken",
+            "author" : "MashXP",
+            "tags" : "anime, classical"
+        },
+        {
+            "skin_name" : "Iwanko (RockRuff)",
+            "skin_id" : "iwanko",
+            "use_model" : "iwanko",
+            "based_on" : "Rockruff from Pokemon Gen 7",
+            "author" : "MashXP, DashieDev",
+            "tags" : "pokemon ,classical"
+        },
+        {
+            "skin_name" : "Houndstone (Hakadoggu)",
+            "skin_id" : "houndstone",
+            "use_model" : "houndstone",
+            "based_on" : "Houndstone from Pokemon Gen 9",
+            "author" : "MashXP",
+            "tags" : "pokemon anime"
+        },
+        {
+            "skin_name" : "Cheems",
+            "skin_id" : "cheems",
+            "use_model" : "kusa_ume",
+            "based_on" : "In honor of Baltze, the popular Shiba Inu. *bonk*",
+            "author" : "MashXP, DashieDev",
+            "tags" : "shiba, meme ,classical"
+        },
+        {
+            "skin_name" : "Grey Wolf",
+            "skin_id" : "grey_wolf",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Classical II",
+            "skin_id" : "wolf_var_1",
+            "use_model" : "default",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Legoshi",
+            "skin_id" : "legoshi",
+            "use_model" : "legoshi",
+            "based_on" : "Legoshi from Beastars",
+            "author" : "MashXP, DashieDev",
+            "tags" : "beastars anime classical"
+        },
+        {
+            "skin_name" : "Jack",
+            "skin_id" : "jack",
+            "use_model" : "jack",
+            "based_on" : "Jack from Beastars",
+            "author" : "MashXP, DashieDev",
+            "tags" : "beastars anime classical"
+        },
+        {
+            "skin_name" : "Juno",
+            "skin_id" : "juno",
+            "use_model" : "juno",
+            "based_on" : "Juno from Beastars",
+            "author" : "MashXP, DashieDev",
+            "tags" : "beastars anime classical"
+        },
+        {
+            "skin_name" : "St Bernard",
+            "skin_id" : "st_bernard",
+            "use_model" : "st_bernard",
+            "author" : "MashXP, DashieDev",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "German Shepherd (Legacy)",
+            "skin_id" : "german_shepherd",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "German Shepherd #2 (Legacy)",
+            "skin_id" : "german_shepherd_2",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "German Shepherd",
+            "skin_id" : "german_shepherd_3",
+            "use_model" : "german_shepherd",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Dachshund #1",
+            "skin_id" : "dachshund",
+            "use_model" : "dachshund",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Dachshund #2",
+            "skin_id" : "dachshund_2",
+            "use_model" : "dachshund",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Doberman #1",
+            "skin_id" : "doberman",
+            "use_model" : "doberman",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Doberman #2",
+            "skin_id" : "doberman_2",
+            "use_model" : "doberman",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Doberman #3",
+            "skin_id" : "doberman_3",
+            "use_model" : "doberman",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Pochita",
+            "skin_id" : "pochita",
+            "use_model" : "pochita",
+            "based_on" : "Pochita from Chainsaw Man",
+            "author" : "MashXP",
+            "tags" : "anime"
+        },
+        {
+            "skin_name" : "Pug #1",
+            "skin_id" : "pug",
+            "use_model" : "pug",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Pug #2",
+            "skin_id" : "pug_2",
+            "use_model" : "pug",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Poodle #1",
+            "skin_id" : "poodle",
+            "use_model" : "poodle",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Poodle #2",
+            "skin_id" : "poodle_2",
+            "use_model" : "poodle",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Bichon Maltais",
+            "skin_id" : "bichon_maltais",
+            "use_model" : "bichon_maltais",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Borzoi",
+            "skin_id" : "borzoi",
+            "use_model" : "borzoi",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "English Bulldog",
+            "skin_id" : "english_bulldog",
+            "use_model" : "english_bulldog",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Spike",
+            "skin_id" : "english_bulldog_2",
+            "use_model" : "english_bulldog",
+            "based_on" : "Spike from Tom and Jerry",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "French Bulldog #1",
+            "skin_id" : "french_bulldog",
+            "use_model" : "french_bulldog",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "French Bulldog #2",
+            "skin_id" : "french_bulldog_2",
+            "use_model" : "french_bulldog",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "French Bulldog #3",
+            "skin_id" : "french_bulldog_3",
+            "use_model" : "french_bulldog",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Bull Terrier #1",
+            "skin_id" : "bull_terrier",
+            "use_model" : "bull_terrier",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Bull Terrier #2",
+            "skin_id" : "bull_terrier_2",
+            "use_model" : "bull_terrier",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Bull Terrier #3",
+            "skin_id" : "bull_terrier_3",
+            "use_model" : "bull_terrier",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Chihuahua #1",
+            "skin_id" : "chihuahua",
+            "use_model" : "chihuahua",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Chihuahua #2",
+            "skin_id" : "chihuahua_2",
+            "use_model" : "chihuahua",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Chihuahua #3",
+            "skin_id" : "chihuahua_3",
+            "use_model" : "chihuahua",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Miniature Pinscher #1",
+            "skin_id" : "miniature_pinscher",
+            "use_model" : "miniature_pinscher",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Miniature Pinscher #2",
+            "skin_id" : "miniature_pinscher_2",
+            "use_model" : "miniature_pinscher",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Boxer #1",
+            "skin_id" : "boxer",
+            "use_model" : "boxer_floppy",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Boxer #2",
+            "skin_id" : "boxer_2",
+            "use_model" : "boxer_pointy",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Belgian Malinois",
+            "skin_id" : "belgian_malinois",
+            "use_model" : "belgian_malinois",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Hungarian Puli #1",
+            "skin_id" : "hungarian_puli",
+            "use_model" : "hungarian_puli",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Hungarian Puli #2",
+            "skin_id" : "hungarian_puli_2",
+            "use_model" : "hungarian_puli",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Basset Hound #1",
+            "skin_id" : "basset_hound",
+            "use_model" : "basset_hound",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Basset Hound #2",
+            "skin_id" : "basset_hound_2",
+            "use_model" : "basset_hound",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Collie Smooth #1",
+            "skin_id" : "collie_smooth",
+            "use_model" : "collie_smooth",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Collie Smooth #2",
+            "skin_id" : "collie_smooth_2",
+            "use_model" : "collie_smooth",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Collie Rough",
+            "skin_id" : "collie_rough",
+            "use_model" : "collie_rough",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Border Collie",
+            "skin_id" : "collie_border",
+            "use_model" : "collie_border",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Shorthaired Border Collie",
+            "skin_id" : "collie_border_short",
+            "use_model" : "collie_border_short",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Norfolk Terrier",
+            "skin_id" : "norfolk_terrier",
+            "use_model" : "norfolk_terrier",
+            "author" : "MashXP",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Norfolk Terrier #2",
+            "skin_id" : "norfolk_terrier_2",
+            "use_model" : "norfolk_terrier",
+            "author" : "MashXP",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Australian Kelpie (Chocolate)",
+            "skin_id" : "australian_kelpie",
+            "use_model" : "australian_kelpie",
+            "author" : "MashXP",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Australian Kelpie (Black Tan)",
+            "skin_id" : "australian_kelpie_2",
+            "use_model" : "australian_kelpie",
+            "author" : "MashXP",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Newfoundland (Black)",
+            "skin_id" : "newfoundland_black",
+            "use_model" : "newfoundland",
+            "author" : "MashXP",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Newfoundland (Brown)",
+            "skin_id" : "newfoundland_brown",
+            "use_model" : "newfoundland",
+            "author" : "MashXP",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Rottweiler",
+            "skin_id" : "rottweiler",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Border Collie (Legacy)",
+            "skin_id" : "border_collie",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Siberian Husky",
+            "skin_id" : "siberian_husky",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Fox",
+            "skin_id" : "fox",
+            "use_model" : "variant",
+            "tail_id" : 2
+        },
+        {
+            "skin_name" : "Arctic Dog",
+            "skin_id" : "arctic_dog",
+            "use_model" : "variant",
+            "tail_id" : 2
+        },
+        {
+            "skin_name" : "Lucario",
+            "skin_id" : "lucario",
+            "use_model" : "lucario",
+            "based_on" : "Lucario from Pokemon",
+            "author" : "MashXP, DashieDev",
+            "tags" :"pokemon anime"
+        },
+        {
+            "skin_name" : "Akita Inu (Legacy)",
+            "skin_id" : "akita_inu_old",
+            "use_model" : "default",
+            "author" : "MashXP, DashieDev"
+        },
+        {
+            "skin_name" : "Japanese Akita Inu (Sesame)",
+            "skin_id" : "akita_japanese_sesame",
+            "use_model" : "akita_inu",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Japanese Akita Inu (Chocolate Milk)",
+            "skin_id" : "akita_japanese_chocolate_milk",
+            "use_model" : "akita_inu",
+            "author" : "MashXP (unofficial breed)"
+        },
+        {
+            "skin_name" : "Japanese Akita Inu (White)",
+            "skin_id" : "akita_japanese_white",
+            "use_model" : "akita_inu",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Japanese Akita Inu (Brindle)",
+            "skin_id" : "akita_japanese_brindle",
+            "use_model" : "akita_inu",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "American Akita (Red Bolder)",
+            "skin_id" : "akita_american_red_bolder",
+            "use_model" : "akita_dog",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "American Akita (Gray)",
+            "skin_id" : "akita_american_gray",
+            "use_model" : "akita_dog",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Shiba Inu #1",
+            "skin_id" : "shiba_inu",
+            "use_model" : "shiba_inu",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Shiba Inu #2",
+            "skin_id" : "shiba_inu_2",
+            "use_model" : "shiba_inu",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Shiba Inu #3",
+            "skin_id" : "shiba_inu_3",
+            "use_model" : "shiba_inu",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Shikoku Inu ",
+            "skin_id" : "shikoku_inu",
+            "use_model" : "shikoku_inu",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Kai Ken #2",
+            "skin_id" : "kai_ken",
+            "use_model" : "kusa_hayabusa",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Kishu Inu",
+            "skin_id" : "kishu_inu",
+            "use_model" : "kusa_hayabusa",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Tosa Inu #2",
+            "skin_id" : "tosa_inu",
+            "use_model" : "kusa_tei",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "German Shorthaired Pointer",
+            "skin_id" : "german_pointer_shorthaired",
+            "use_model" : "german_pointer_shorthaired",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "German Wirehaired Pointer",
+            "skin_id" : "german_pointer_wirehaired",
+            "use_model" : "german_pointer_wirehaired",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Samoyed",
+            "skin_id" : "samoyed",
+            "use_model" : "samoyed",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Samoyed (Hapi)",
+            "skin_id" : "samoyed_hapi",
+            "use_model" : "samoyed",
+            "author" : "MashXP",
+            "mystery": true
+        },
+        {
+            "skin_name" : "Samoyed (Angy)",
+            "skin_id" : "samoyed_angy",
+            "use_model" : "samoyed",
+            "author" : "MashXP",
+            "mystery": true
+        },
+        {
+            "skin_name" : "Death",
+            "skin_id" : "death",
+            "use_model" : "death",
+            "based_on" : "Death from Puss In Boots : The Last Wish",
+            "author" : "MashXP, DashieDev",
+            "tags" :"cartoon classical"            
+        },
+        {
+            "skin_name" : "Racoon",
+            "skin_id" : "racoon",
+            "use_model" : "variant",
+            "tail_id" : 2
+        },
+        {
+            "skin_name" : "Noname #1",
+            "skin_id" : "noname_1",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Noname #2",
+            "skin_id" : "noname_2",
+            "use_model" : "variant",
+            "ear_id" : 1
+        },
+        {
+            "skin_name" : "Noname #3",
+            "skin_id" : "noname_3",
+            "use_model" : "variant",
+            "ear_id" : 1
+        },
+        {
+            "skin_name" : "Noname #4",
+            "skin_id" : "noname_4",
+            "use_model" : "variant",
+            "ear_id" : 2
+        },
+        {
+            "skin_name" : "Noname #5",
+            "skin_id" : "noname_5",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Noname #6",
+            "skin_id" : "noname_6",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Noname #7",
+            "skin_id" : "noname_7",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Noname #8",
+            "skin_id" : "noname_8",
+            "use_model" : "default"
+        },
+        {
+            "skin_name" : "Na",
+            "skin_id" : "na",
+            "use_model" : "na",
+            "author" : "Na",
+            "tags" : "na"
+        },
+        {
+            "skin_name" : "Classical III",
+            "skin_id" : "wolf_var_2",
+            "use_model" : "default",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Classical IV",
+            "skin_id" : "wolf_old",
+            "use_model" : "default",
+            "description" : "First Edition Of The Minecraft Wolf.",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Classical V",
+            "skin_id" : "wolf_old_1",
+            "use_model" : "default",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Classical VI",
+            "skin_id" : "wolf_old_2",
+            "use_model" : "default",
+            "tags" : "classical"
+        },
+        {
+            "skin_name" : "Otter",
+            "skin_id" : "otter",
+            "use_model" : "otter",
+            "author" : "MashXP"
+        },
+        {
+            "skin_name" : "Bolt",
+            "skin_id" : "bolt",
+            "use_model" : "bolt",
+            "author" : "MashXP",
+            "based_on" : "Bolt from Bolt (2008) - Disney Films.",
+            "tags" : "cartoon classical"
+        },
+        {
+            "skin_name" : "Okami Amaterasu #2",
+            "skin_id" : "ammy_mouthshut",
+            "use_model" : "okami_amaterasu",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Plain)",
+            "skin_id" : "ammy_mouthopen",
+            "use_model" : "okami_amaterasu",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Statue)",
+            "skin_id" : "ammy_divine_statue",
+            "use_model" : "okami_amaterasu",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Chi Form)",
+            "skin_id" : "ammy_divine_chi",
+            "use_model" : "ammy_divine_chi",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Jin Form)",
+            "skin_id" : "ammy_divine_jin",
+            "use_model" : "ammy_divine_jin",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Shin Form)",
+            "skin_id" : "ammy_divine_shin",
+            "use_model" : "ammy_divine_shin",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Tei Form)",
+            "skin_id" : "ammy_divine_tei",
+            "use_model" : "ammy_divine_tei",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Rei Form)",
+            "skin_id" : "ammy_divine_rei",
+            "use_model" : "ammy_divine_rei",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy"
+        },
+        {
+            "skin_name" : "Okami Amaterasu (Rebirth)",
+            "skin_id" : "ammy_divine_rebirth",
+            "use_model" : "ammy_divine_rebirth",
+            "based_on" : "(Okami) Amaterasu from Okami(2006) by Clover Studio",
+            "author" : "MashXP, DashieDev",
+            "tags" : "okami, amaterasu, ammy",
+            "mystery" : true
+        },
+        {
+            "skin_name" : "Sparky",
+            "skin_id" : "sparky",
+            "use_model" : "sparky",
+            "author" : "MashXP",
+            "based_on" : "Sparky from Tim Burton's film, Frankenweenie.",
+            "tags" : "halloween"
+        },
+        {
+            "skin_name" : "Scraps",
+            "skin_id" : "scraps",
+            "use_model" : "scraps",
+            "author" : "MashXP",
+            "based_on" : "Scraps from Tim Burton's film, Corpse Bride.",
+            "tags" : "halloween"
+        },
+        {
+            "skin_name" : "Zero",
+            "skin_id" : "zero",
+            "use_model" : "zero",
+            "author" : "MashXP",
+            "based_on" : "Zero from Tim Burton's film, The Nightmare Before Christmas.",
+            "tags" : "halloween"
+        },
+        {
+            "skin_name" : "Nelson",
+            "skin_id" : "bull_terrier_nelson",
+            "use_model" : "bull_terrier",
+            "author" : "MashXP *stares",
+            "tags" : "meme"
+        },
+        {
+            "skin_name" : "LONG BORZOI",
+            "skin_id" : "borzoi_long",
+            "use_model" : "borzoi_long",
+            "author" : "MashXP (lemme do it for you~)",
+            "mystery" : true
+        }
+    ]
+}

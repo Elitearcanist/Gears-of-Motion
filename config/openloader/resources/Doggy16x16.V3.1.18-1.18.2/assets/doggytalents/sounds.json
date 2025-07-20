@@ -1,0 +1,15 @@
+{
+  "whistle_short": {
+    "subtitle": "doggytalents.whistle.short",
+    "sounds": [ "doggytalents:whistle/short" ]
+  },
+  "whistle_long": {
+    "subtitle": "doggytalents.whistle.long",
+    "sounds": [ "doggytalents:whistle/long" ]
+  },
+
+  "chopin_op64_no1" : {
+    "subtitle": "doggytalents.music.chopin_op64_no1",
+    "sounds": [ "doggytalents:music/chopin_op64_no_1_dashiedev" ]
+  }
+}

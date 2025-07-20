@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"giantorigin:mount_edit",
+		"giantorigin:big_edit",
+		"giantorigin:health_edit",
+		"giantorigin:hunger_edit",
+		"giantorigin:strong_edit",
+		"giantorigin:bow_edit",
+		"giantorigin:sturdy_edit",
+		"giantorigin:bowcross",
+		"giantorigin:item_edit",
+		"giantorigin:swim_edit",
+		"giantorigin:sleep_edit"
+	],
+	"icon": "minecraft:goat_horn",
+	"order": 10,
+	"impact": 3,
+	"name": "Giant",
+	"description": "Giants are an ancient race, hunted into near extinction by those who once feared them. Their history is clouded by time, vast oral traditions lost in the wake of countless deaths."
+}

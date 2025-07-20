@@ -1,0 +1,10 @@
+{
+	"type": "origins:attribute",
+	"name": "Towering Constitution",
+	"description": "Your breadth of form renders you sturdier than most, granting you 5 additional hearts.",
+	"modifier": {
+		"attribute": "minecraft:generic.max_health",
+		"value": 15,
+		"operation": "addition"
+	}
+}

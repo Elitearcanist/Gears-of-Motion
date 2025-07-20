@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "killed_concierge": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecells:concierge"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Enter the Black Bridge and defeat the Concierge"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecells:concierge_respawn_rune"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Defeat the Concierge"
+    }
+  },
+  "requirements": [
+    [
+      "killed_concierge"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

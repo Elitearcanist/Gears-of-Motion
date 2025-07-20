@@ -1,0 +1,1216 @@
+{
+	"health+2": {
+		"title": "§6§l+1 Heart",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "dtrmn5mw683336i0"
+		}
+	},
+	"health+1": {
+		"title": "§6§l+1/2 Heart",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "dtrmn5mw683336i0"
+		}
+	},
+	"health+4": {
+		"title": "§6§l+2 Hearts",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 4,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "dtrmn5mw683336i0"
+		}
+	},
+		"spell_power+5%": {
+		"title": "§6§lAll Spell Power",
+		"description": "§8(Earth, Water, Frost, Fire, Arcane and Wind Wizards)\n§7Healing Spell Power §4§l+5%\n§7Air Spell Power §4§l+5%\n§7Arcane Spell Power §4§l+5%\n§7Earth Spell Power §4§l+5%\n§7Fire Spell Power §4§l+5%\n§7Frost Spell Power §4§l+5%\n§7Lightning Spell Power §4§l+5%\n§7Soul Spell Power §4§l+5%\n§7Water Spell Power §4§l+5%",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "elemental_wizards_rpg:elemental_essence"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:healing",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:air",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:arcane",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:earth",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:fire",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:frost",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:lightning",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:soul",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:water",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "9j9rddn6h17fhq0b"
+		}
+	},
+	"resistance+1%": {
+		"title": "§6§l+1% Resistance",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"resistance+2%": {
+		"title": "§6§l+2% Resistance",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.02,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"resistance+3%": {
+		"title": "§6§l+3% Resistance",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"luck+0.25": {
+		"title": "§6§l+0.25 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"luck+0.5": {
+		"title": "§6§l+0.5 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"luck+0.3": {
+		"title": "§6§l+0.5 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"attack_speed+5%": {
+		"title": "§6§l+5% Attack Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "c0idcpuvhx08o4cr"
+		}
+	},
+	"attack_speed+2.5%": {
+		"title": "§6§l+5% Attack Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.025,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "c0idcpuvhx08o4cr"
+		}
+	},
+	"attack_speed+7%": {
+		"title": "§6§l+5% Attack Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:golden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "c0idcpuvhx08o4cr"
+		}
+	},
+	"movement_speed+5%": {
+		"title": "§6§l+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "s3g6qtb026g5urth"
+		}
+	},
+	"movement_speed+10%": {
+		"title": "§6§l+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "s3g6qtb026g5urth"
+		}
+	},
+	"movement_speed+7%": {
+		"title": "§6§l+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "s3g6qtb026g5urth"
+		}
+	},
+	"roll_distance": {
+		"title": "§6§l+1 Roll distance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:elytra"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "combatroll:distance",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "j5lqfh0pk2i4epd7"
+		}
+	},
+	"roll_distance+2": {
+		"title": "§6§l+2 Roll distance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:elytra"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "combatroll:distance",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "j5lqfh0pk2i4epd7"
+		}
+	},
+	"roll_recharge+5%": {
+		"title": "§6§l+5% Roll Recharge Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "supplementaries:cannonball"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "combatroll:recharge",
+					"value": ".05",
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "bcx4goczrh99nz6j"
+		}
+	},
+	"roll_recharge+10%": {
+		"title": "§6§l+10% Roll Recharge Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "supplementaries:cannonball"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "combatroll:recharge",
+					"value": ".1",
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "bcx4goczrh99nz6j"
+		}
+	},
+	"roll_recharge+2.5%": {
+		"title": "§6§l+10% Roll Recharge Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "supplementaries:cannonball"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "combatroll:recharge",
+					"value": ".025",
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "bcx4goczrh99nz6j"
+		}
+	},
+	"roll_count": {
+		"title": "§6§l+1 Roll",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "origins:orb_of_origin"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "combatroll:count",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "drmfjd04lrhh3lfg"
+		}
+	},
+	"jump+8%": {
+		"title": "§6§l+8% Jump Height",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_leggings"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.jump",
+					"value": 0.04,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "dqxcmzuentz6c9ye"
+		}
+	},
+	"jump+16%": {
+		"title": "§6§l+16% Jump Height",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_leggings"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.jump",
+					"value": 0.16,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "dqxcmzuentz6c9ye"
+		}
+	},
+	"jump+4%": {
+		"title": "§6§l+4% Jump Height",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_leggings"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.jump",
+					"value": 0.04,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "dqxcmzuentz6c9ye"
+		}
+	},
+	"armor+20%": {
+		"title": "§6§l+7%Armor Efficiency",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor",
+					"value": 0.08,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0h4at6ubhh0f7sv5"
+		}
+	},
+	"armor+4%": {
+		"title": "§6§l+4%Armor Efficiency",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor",
+					"value": 0.04,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0h4at6ubhh0f7sv5"
+		}
+	},
+	"armor+16%": {
+		"title": "§6§l+4%Armor Efficiency",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:iron_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor",
+					"value": 0.16,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0h4at6ubhh0f7sv5"
+		}
+	},
+	"toughness+20%": {
+		"title": "§6§lArmor Toughness +5%",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:diamond_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor_toughness",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "pe8dcuxmc9ulq0yg"
+		}
+	},
+	"toughness+2.5%": {
+		"title": "§6§lArmor Toughness +2.5",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:diamond_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor_toughness",
+					"value": 0.025,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "pe8dcuxmc9ulq0yg"
+		}
+	},
+		"critical damage+10%": {
+		"title": "§6§lCritical Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "additionalentityattributes:critical_bonus_damage",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1bsxkachx2a6gjl9"
+		}
+	},
+	"melee_damage+35%": {
+		"title": "§6§lMelee Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_damage",
+					"value": 0.035,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1bsxkachx2a6gjl9"
+		}
+	},
+	"melee_damage+13%": {
+		"title": "§6§lMelee Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_damage",
+					"value": 0.013,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1bsxkachx2a6gjl9"
+		}
+	},
+	"melee_damage+26%": {
+		"title": "§6§lMelee Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_damage",
+					"value": 0.026,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "1bsxkachx2a6gjl9"
+		}
+	},
+	"ranged_damage+3%": {
+		"title": "§6§l +3% Ranged Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ranged_weapon:damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ru7hpwseg1dyayo5"
+		}
+	},
+	"ranged_damage+6%": {
+		"title": "§6§l6% Ranged Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ranged_weapon:damage",
+					"value": 0.06,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ru7hpwseg1dyayo5"
+		}
+	},
+	"ranged_damage+12%": {
+		"title": "§6§l12% Ranged Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ranged_weapon:damage",
+					"value": 0.12,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ru7hpwseg1dyayo5"
+		}
+	},
+	"stamina+8%": {
+		"title": "§6§l Stamina +1%",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.1,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "aunblsiykv0vvm7j"
+		}
+	},
+	"stamina+2%": {
+		"title": "§6§l Stamina +2%",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.2,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "aunblsiykv0vvm7j"
+		}
+	},
+	"stamina+.05%": {
+		"title": "§6§l Stamina +.05%",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "minecraft:saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "aunblsiykv0vvm7j"
+		}
+	},
+	"Regeneration+5%": {
+		"title": "+5% Regeneration",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"Regeneration+2.5%": {
+		"title": "+5% Regeneration",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.025,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"Regeneration+10%": {
+		"title": "+5% Regeneration",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.10,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+	"warrior": {
+		"title": "§6§lWarrior",
+		"description": "§8(Ranger, Beserker, Forcemaster, Rouge, Warrior)\n§7Stamina §4§l+6%\n§7Regeneration§4§l +2%\n§7Attack Speed §4§l+3%",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:diamond_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.06,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.healing",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "y5279z8lwdw6l1au"
+		}
+	},
+	"wizard": {
+		"title": "§6§lWizard",
+		"description": "§8(Earth, Water, Frost, Fire, Arcane and Wind Wizards)\n§7Healing Spell Power §4§l+5%\n§7Air Spell Power §4§l+5%\n§7Arcane Spell Power §4§l+5%\n§7Earth Spell Power §4§l+5%\n§7Fire Spell Power §4§l+5%\n§7Frost Spell Power §4§l+5%\n§7Lightning Spell Power §4§l+5%\n§7Soul Spell Power §4§l+5%\n§7Water Spell Power §4§l+5%",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wands:creative_wand"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:healing",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:air",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:arcane",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:earth",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:fire",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:frost",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:lightning",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:soul",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "spell_power:water",
+					"value": 0.05,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "9j9rddn6h17fhq0b"
+		}
+	},
+	"spellblade": {
+		"title": "§6§lSpellblade",
+		"description": "§8(Paladin, Witcher, Death Knight, Priest)\n§7Attack Speed §4§l+012%\n §7Stamina §4§l+2%\n",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spellbladenext:arcane_blade"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.012,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "frv86td1hhfneoll"
+		}
+	},
+		"extinguisher": {
+		"title": "§6§lAuto Extinguish",
+		"description": "§4§lExtinguish yourself when set on fire autmatically",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+			"type": "puffish_skills_origins:power",
+			"data": {
+				"power": "talents:autoext"
+			}
+			}
+		],
+		"metadata": {
+			"icon": "dtrmn5mw683336i0"
+		}
+	},
+			"morefire": {
+		"title": "§6§lMore Fire Damage",
+		"description": "§4§lYou deal 1.5x damage when setting things on fire",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wooden_sword"
+			}
+		},
+		"rewards": [
+			{
+			"type": "puffish_skills_origins:power",
+			"data": {
+				"power": "talents:doublefire"
+			}
+			}
+		],
+		"metadata": {
+			"icon": "dtrmn5mw683336i0"
+		}
+	},
+	"nothing": {
+		"title": "§6§lNothing",
+		"description": "§8(Paladin, Witcher, Death Knight, Priest)\n§7Attack Speed §4§l+012%\n §7Stamina §4§l+2%\n",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "spellbladenext:arcane_blade"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_speed",
+					"value": 0.012,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.02,
+					"operation": "multiply_base"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "frv86td1hhfneoll"
+		}
+	}
+}

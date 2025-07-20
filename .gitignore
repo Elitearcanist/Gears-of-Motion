@@ -1,0 +1,7 @@
+# Mods, saves, resource and shader packs
+mods/
+*.jar
+saves/
+
+# Curseforge files
+.curseclient

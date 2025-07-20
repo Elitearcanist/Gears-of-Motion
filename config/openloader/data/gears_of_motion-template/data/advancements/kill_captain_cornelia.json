@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "killed_captain_cornelia": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "aquamirae:captain_cornelia"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Use the Shell Horn to summon and defeat the dreaded undead captain"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "aquamirae:coral_lance"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Defeat Captain Cornelia"
+    }
+  },
+  "requirements": [
+    [
+      "killed_captain_cornelia"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,25 @@
+{
+	"powers": [
+		"giantorigin:big",
+		"giantorigin:health",
+		"giantorigin:hunger",
+		"giantorigin:strong",
+		"giantorigin:slow",
+		"giantorigin:limbs",
+		"giantorigin:sturdy",
+		"giantorigin:bow",
+		"giantorigin:bowcross",
+		"giantorigin:armor",
+		"giantorigin:item",
+		"giantorigin:breath",
+		"giantorigin:swim",
+		"giantorigin:spider",
+		"giantorigin:sleep",
+		"giantorigin:mount"
+	],
+	"icon": "minecraft:leather_chestplate",
+	"order": 10,
+	"impact": 3,
+	"name": "Giant",
+	"description": "Giants are an ancient race, becoming quite a rare sight in modern times. Their history remains unknown with few left to keep it alive."
+}

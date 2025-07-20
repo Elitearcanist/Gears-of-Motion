@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "killed_conjunctivius": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecells:conjunctivius"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Enter the insufferable crypt and defeat the Conjunctivius"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "minecells:conjunctivius_respawn_rune"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Defeat the Conjunctivius"
+    }
+  },
+  "requirements": [
+    [
+      "killed_conjunctivius"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

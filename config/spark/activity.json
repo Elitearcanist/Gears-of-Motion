@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "TheWolfMant",
+      "uniqueId": "c2e55e88-be65-4a7b-81e6-8f2eae6105ee"
+    },
+    "time": 1737396563499,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\will\\curseforge\\minecraft\\Instances\\Gears Of Motion\\config\\spark\\heap-2025-01-20_11.09.12.hprof"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+2025-06-30 19:52:45 [ERROR] EuphoriaPatcher: You need to have ComplementaryShaders_r5.5.1 installed!
+2025-06-30 19:52:45 [ERROR] EuphoriaPatcher: Found older version: ComplementaryReimagined_r5.3.zip
+2025-06-30 19:52:45 [ERROR] EuphoriaPatcher: Please update to specifically ComplementaryShaders_r5.5.1 from https://www.complementary.dev/ and place it into your shaderpacks folder.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2025-06-30 19:56:01 [ERROR] EuphoriaPatcher: You need to have ComplementaryShaders_r5.5.1 installed!
+2025-06-30 19:56:01 [ERROR] EuphoriaPatcher: Found older version: ComplementaryReimagined_r5.3.zip
+2025-06-30 19:56:01 [ERROR] EuphoriaPatcher: Please update to specifically ComplementaryShaders_r5.5.1 from https://www.complementary.dev/ and place it into your shaderpacks folder.
+
+--------------------------------------
+Restart happened
+--------------------------------------
+2025-06-30 19:58:59 [ERROR] EuphoriaPatcher: You need to have ComplementaryShaders_r5.5.1 installed!
+2025-06-30 19:58:59 [ERROR] EuphoriaPatcher: Found older version: ComplementaryReimagined_r5.3.zip
+2025-06-30 19:58:59 [ERROR] EuphoriaPatcher: Please update to specifically ComplementaryShaders_r5.5.1 from https://www.complementary.dev/ and place it into your shaderpacks folder.

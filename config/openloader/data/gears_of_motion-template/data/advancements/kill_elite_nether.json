@@ -1,0 +1,56 @@
+{
+  "criteria": {
+    "killed_wildfire": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "friendsandfoes:wildfire"
+            }
+          }
+        ]
+      }
+    },
+    "killed_piglin_brute": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:piglin_brute"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Defeat a Wildfire and Piglin Brute"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "friendsandfoes:wildfire_crown"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Defeat Elite Enemies: Nether"
+    }
+  },
+  "requirements": [
+    [
+      "killed_piglin_brute"
+    ],
+    [
+      "killed_wildfire"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

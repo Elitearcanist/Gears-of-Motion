@@ -1,0 +1,16 @@
+{
+	"replace": false,
+	"order": 1,
+	"origins": [
+		"origins:human",
+		"dnd:genasi",
+		"dnd:gnome",
+		"dnd:half-orc",
+		"dnd:lizardfolk",
+		"dnd:dwarf",
+		"dnd:grung",
+		"dnd:warforged",
+		"dnd:aarakocra",
+		"dnd:tabaxi"
+	]
+}

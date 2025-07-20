@@ -1,0 +1,216 @@
+{
+  "criteria": {
+    "minecraft:end_barrens": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "minecraft:end_barrens"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:end_highlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "minecraft:end_highlands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:end_midlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "minecraft:end_midlands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:small_end_islands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "minecraft:small_end_islands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:the_end": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "minecraft:the_end"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "promenade:dark_amaranth_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "promenade:dark_amaranth_forest"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "promenade:tall_dark_amaranth_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "promenade:tall_dark_amaranth_forest"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "eldritch_end:hasturian_wastes": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "eldritch_end:hasturian_wastes"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "eldritch_end:primordial_abyss": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "eldritch_end:primordial_abyss"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "phantasm:dreaming_den": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biome": "phantasm:dreaming_den"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "Explore all End biomes"
+    },
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "eldritch_end:etyrite_boots",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Weird Tourist Destinations"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:end_barrens"
+    ],
+    [
+      "minecraft:end_highlands"
+    ],
+    [
+      "minecraft:end_midlands"
+    ],
+    [
+      "minecraft:small_end_islands"
+    ],
+    [
+      "minecraft:the_end"
+    ],
+    [
+      "promenade:dark_amaranth_forest"
+    ],
+    [
+      "promenade:tall_dark_amaranth_forest"
+    ],
+    [
+      "eldritch_end:hasturian_wastes"
+    ],
+    [
+      "eldritch_end:primordial_abyss"
+    ],
+    [
+      "phantasm:dreaming_den"
+    ]
+  ],
+  "rewards": {
+    "experience": 500
+  },
+  "sends_telemetry_event": true
+}

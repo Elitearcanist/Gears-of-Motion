@@ -1,0 +1,12 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:extinguish"
+    },
+    "interval": 1,
+    "condition": {
+        "type": "origins:on_fire"
+    },
+	"name": "auto-extinguish",
+	"description": "You still take fire/lava damage, but cannot be set on fire."
+}
